@@ -73,7 +73,16 @@
     </a>
   </h1>
 </div>
-<a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=Superstrangestar&theme=dark" alt="Superstrangestar" /></a>
+<table>
+  <tr>
+    <td>
+      <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Superstrangestar&theme=dark" alt="Superstrangestar" /></a>
+    </td>
+    <td>
+      <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Superstrangestar&theme=dark&utcOffset=8" alt="Superstrangestar" /></a>
+    </td>
+  </tr>
+</table>
 <a href="#-my-github-stats--"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=Superstrangestar&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true" alt="Superstrangestar" /></a>
 
 <a href="#-my-github-stats--"><img width="100%" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
