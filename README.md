@@ -22,7 +22,7 @@
 <a href="https://soliditylang.org/" target="_blank"><img align="left" alt="Solidity" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/solidity.svg" /></a>
 <a href="https://go.dev/" target="_blank"><img align="left" alt="Golang" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/golang.svg" /></a>
 <a href="https://www.rust-lang.org/" target="_blank"><img align="left" alt="Rust" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/rust.svg" /></a>
-<br/><br/>
+<br/><br/><br/>
 
 ### Libraries
 
@@ -33,9 +33,10 @@
 <a href="https://docs.web3js.org/" target="_blank"><img align="left" alt="Web3.js" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/web3.js.png" /></a>
 <a href="https://docs.ethers.org/v5/" target="_blank"><img align="left" alt="etherjs" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/etherjs.png" /></a>
 <a href="https://nodejs.org/en" target="_blank"><img align="left" alt="Node.js" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
-<br/><br/>
+<br/><br/><br/>
 
 ### Frameworks
+
 
 <a href="https://hardhat.org/" target="_blank"><img align="left" alt="Hardhat" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/hardhat.svg" /></a>
 <a href="https://archive.trufflesuite.com/" target="_blank"><img align="left" alt="Truffle" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/truffle.png" /></a>
@@ -46,14 +47,14 @@
 <a href="https://angular.dev/" target="_blank"><img align="left" alt="Angular" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/angular.gif" /></a>
 <a href="https://vuejs.org/" target="_blank"><img align="left" alt="Vue" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/vue.gif" /></a>
 <a href="https://getbootstrap.com/" target="_blank"><img align="left" alt="Bootstrap" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/bootstrap.gif" /></a>
-<br/><br/>
+<br/><br/><br/>
 
 ### Database
 
 <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/postgres.svg" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mongoDB.gif" /></a>
-<br/><br/>
+<br/><br/><br/>
 
 ### Tools
 
@@ -74,26 +75,28 @@
   </h1>
 </div>
 
-<div>
-  <div style="display: flex; gap: 8px;">
-    <div style="width: 62%;">
-        <a href="#-my-github-stats--"><img width="100%" height="200px" src="https://gh-readme-profile.vercel.app/api?username=Superstrangestar&theme=dark" alt="Superstrangestar" /></a>
-    </div>
-    <div>
-        <a href="#-my-github-stats--"><img width="100%" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Superstrangestar&theme=dark" alt="Superstrangestar" /></a>
-    </div>
-  </div>
-  <div style="display: flex; gap: 8px;">
-    <div style="width: 38%">
-        <a href="#-my-github-stats--"><img width="100%" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Superstrangestar&theme=dark" alt="Superstrangestar" /></a>
-    </div>
-    <div>
-        <a href="#-my-github-stats--"><img height="150px" src="https://github-readme-activity-graph.vercel.app/graph/?username=Superstrangestar&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true" alt="Superstrangestar" /></a>
-    </div>
-  </div>
-</div>
+<table width="100%">
+  <tr>
+    <td width="56%">
+        <a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=Superstrangestar&theme=dark" alt="Superstrangestar" /></a>
+    </td>
+    <td>
+        <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Superstrangestar&theme=dark" alt="Superstrangestar" /></a>
+    </td>
+  </tr>
+  </table>
+  <table width="100%">
+  <tr>
+    <td width="35%">
+        <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Superstrangestar&theme=dark" alt="Superstrangestar" /></a>
+    </td>
+    <td>
+        <a href="#-my-github-stats--"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=Superstrangestar&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true" alt="Superstrangestar" /></a>
+    </td>
+  </tr>
+</table>
 
-<a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
+<a href="#-my-github-stats--"><img width="100%" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
 <h2>
   If you found this project useful or interesting, please consider giving it a 
