@@ -73,6 +73,7 @@
     </a>
   </h1>
 </div>
+<div align="center">
 <table>
   <tr>
     <td>
@@ -83,7 +84,10 @@
     </td>
   </tr>
 </table>
-<a href="#-my-github-stats--"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=Superstrangestar&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true" alt="Superstrangestar" /></a>
+</div>
+<div align="center">
+<a href="#-my-github-stats--"><img width="66%" src="https://github-readme-activity-graph.vercel.app/graph/?username=Superstrangestar&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true" alt="Superstrangestar" /></a>
+</div>
 
 <a href="#-my-github-stats--"><img width="100%" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
