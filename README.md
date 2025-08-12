@@ -37,7 +37,6 @@
 
 ### Frameworks
 
-
 <a href="https://hardhat.org/" target="_blank"><img align="left" alt="Hardhat" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/hardhat.svg" /></a>
 <a href="https://archive.trufflesuite.com/" target="_blank"><img align="left" alt="Truffle" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/truffle.png" /></a>
 <a href="https://cosmwasm.com/" target="_blank"><img align="left" alt="Cosmwasm" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/cosmwasm.jfif" /></a>
@@ -74,27 +73,8 @@
     </a>
   </h1>
 </div>
-
-<table width="100%">
-  <tr>
-    <td width="56%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=Superstrangestar&theme=dark" alt="Superstrangestar" /></a>
-    </td>
-    <td>
-        <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Superstrangestar&theme=dark" alt="Superstrangestar" /></a>
-    </td>
-  </tr>
-  </table>
-  <table width="100%">
-  <tr>
-    <td width="35%">
-        <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Superstrangestar&theme=dark" alt="Superstrangestar" /></a>
-    </td>
-    <td>
-        <a href="#-my-github-stats--"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=Superstrangestar&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true" alt="Superstrangestar" /></a>
-    </td>
-  </tr>
-</table>
+<a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=Superstrangestar&theme=dark" alt="Superstrangestar" /></a>
+<a href="#-my-github-stats--"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=Superstrangestar&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true" alt="Superstrangestar" /></a>
 
 <a href="#-my-github-stats--"><img width="100%" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
