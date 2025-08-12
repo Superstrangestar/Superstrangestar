@@ -73,18 +73,18 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="45%">
+    <td align="center" width="45%" height="200px">
         <a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=Superstrangestar&theme=dark" alt="Superstrangestar" /></a>
     </td>
-    <td align="center" width="55%">
-        <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Superstrangestar&theme=dark&utcOffset=8" alt="Superstrangestar" /></a>
+    <td align="center" width="55%" height="200px">
+        <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Superstrangestar&theme=dark" alt="Superstrangestar" /></a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="40%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Superstrangestar&theme=dark" alt="Superstrangestar" /></a>
+    <td align="center" width="40%" height="200px">
+        <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Superstrangestar&theme=dark" alt="Superstrangestar" /></a>
     </td>
-    <td align="center" width="60%">
+    <td align="center" width="60%" height="200px">
         <a href="#-my-github-stats--"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=Superstrangestar&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true" alt="Superstrangestar" /></a>
     </td>
   </tr>
