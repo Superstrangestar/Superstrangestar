@@ -74,15 +74,15 @@
 <table align="center">
   <tr>
     <td align="center" width="45%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=Superstrangestar&theme=dark" alt="Supercometstar" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=Superstrangestar&theme=dark" alt="Superstrangestar" /></a>
     </td>
     <td align="center" width="55%">
-        <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Superstrangestar&theme=dark" alt="Supercometstar" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Superstrangestar&theme=dark&utcOffset=8" alt="Superstrangestar" /></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="40%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Superstrangestar&theme=dark" alt="Supercometstar" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Superstrangestar&theme=dark" alt="Superstrangestar" /></a>
     </td>
     <td align="center" width="60%">
         <a href="#-my-github-stats--"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=Superstrangestar&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true" alt="Superstrangestar" /></a>
@@ -94,11 +94,11 @@
 
 <h2>
   If you found this project useful or interesting, please consider giving it a 
-  <a href="https://github.com/Supercometstar/Supercometstar/#">
+  <a href="https://github.com/Superstrangestar/Superstrangestar/#">
     <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" style="width:25px"> Star
   </a>.
   If you'd like to use this template, feel free to 
-  <a href="https://github.com/Supercometstar/Supercometstar/fork">
+  <a href="https://github.com/Superstrangestar/Superstrangestar/fork">
     Fork
   </a> 
   it and customize it to your needs!
