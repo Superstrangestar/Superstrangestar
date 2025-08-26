@@ -3,7 +3,7 @@
 <h1> 💫 About Me (Akira Nakamura)  </h1>
 
 <h3>
-  - 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web applications<br/>
+  - 🔭 Full-stack developer with 10+ years of experience designing and building scalable, high-performance web applications<br/>
   - 📦 AI enthusiast with 5+ years of experience. mastered ML, DL, RL(special)<br/>
   - 📤 Scraping and Automation specialist with solid experience leveraging several tools and APIs<br/>
 </h3>
